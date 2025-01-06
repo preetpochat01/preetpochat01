@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Janhavi</h1>
+<h1 align="center">Hi 👋, I'm Preet Pochat</h1>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janweeee&" alt="janweeee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetpochat01&" alt="preetpochat01" /></p>
 </div>
 
-- 🔭 I’m currently working on **API-Driven-Test-Automation-Framework**
-
-- 🌱 I’m currently learning how to combine and use multiple technologies like **CI/CD, Software Automation, LLMs, RAG, GenAI**
-
-- Exploring my love for  **AIML and Data Science tools**
-
-- 📫 How to reach me **janhavikatre747@gmail.com**
+- 🔭 I’m currently working on **E-Commerce full stack website**
+- 
+- 📫 How to reach me **preetpochat@gmail.com**
