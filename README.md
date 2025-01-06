@@ -5,5 +5,5 @@
 </div>
 
 - 🔭 I’m currently working on **E-Commerce full stack website**
-- 
+
 - 📫 How to reach me **preetpochat@gmail.com**
